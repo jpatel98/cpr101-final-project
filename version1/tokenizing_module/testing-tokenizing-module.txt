@@ -1,0 +1,28 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+Hello world!
+Word is #1 is 'Hello'
+Word is #2 is 'world!'
+Type a few words separated by space(q - to quit):
+This is the sample of my program
+Word is #1 is 'This'
+Word is #2 is 'is'
+Word is #3 is 'the'
+Word is #4 is 'sample'
+Word is #5 is 'of'
+Word is #6 is 'my'
+Word is #7 is 'program'
+Type a few words separated by space(q - to quit):
+hello
+Word is #1 is 'hello'
+Type a few words separated by space(q - to quit):
+2!@#$% ^&*()_+-= []\{}|<> ?/;'":
+Word is #1 is '2!@#$%'
+Word is #2 is '^&*()_+-='
+Word is #3 is '[]\{}|<>'
+Word is #4 is '?/;'":'
+Type a few words separated by space(q - to quit):
+ 
+Type a few words separated by space(q - to quit):
+q
+//PROGRAM QUITS.

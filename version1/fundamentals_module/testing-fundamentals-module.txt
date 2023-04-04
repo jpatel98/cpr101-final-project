@@ -1,0 +1,41 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hello world!
+Type the character position within the string:
+6
+The character found at 6 position is 'w'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+DEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
+Type the character position within the string:
+26
+The character found at 26 position is '$'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hello world!
+Type the character position within the string:
+19
+Too big... Position reduced to max. available
+The character found at 11 position is '!'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hello world!
+Type the character position within the string:
+-9
+Too big... Position reduced to max. available
+The character found at 11 position is '!'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Hello world!
+Type the character position within the string:
+q
+The character found at 0 position is 'H'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789

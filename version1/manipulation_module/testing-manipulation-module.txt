@@ -1,0 +1,35 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2st string:
+World!
+Concatenated string is 'Hello World!'
+
+
+Type the 1st string (q - to quit):
+Type the 2st string:
+World!
+Concatenated string is 'World!'
+
+
+Type the 1st string (q - to quit):
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
+Type the 2st string:
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
+
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Testing
+Type the 2st string:
+q
+Concatenated string is 'Testingq'
+
+
+
+Type the 1st string (q - to quit):
